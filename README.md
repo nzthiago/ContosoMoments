@@ -31,7 +31,7 @@ Download and install the following tools to build and/or develop this applicatio
 1. Fork this repository to your GitHub account 
 1. Click on the **Deploy to Azure** Button
 
-    [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazure-appservice-samples%2FContosoMoments%2Fmaster%2Fazuredeploy.json)
+    [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnzthiago%2FContosoMoments%2Fmaster%2Fazuredeploy.json)
 
 1. Fill out the values in the Deployment page
 
